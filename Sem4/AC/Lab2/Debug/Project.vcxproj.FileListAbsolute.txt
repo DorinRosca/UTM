@@ -1,0 +1,4 @@
+C:\Irvine\Examples\Project32_VS2022\Debug\Project.exe
+C:\Users\Asus\Desktop\Assembly32xa\Debug\Project.exe
+C:\Users\Asus\Desktop\Assembly32xaeu\Debug\Project.exe
+D:\UTM\Sem4\AC\Lab2\Debug\Project.exe

@@ -1,0 +1,68 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "Build::GCC 12.1.0",
+			"command": "C:\\MinGW64\\bin\\g++.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"-std=c++23",
+				"${workspaceFolder}\\*.cpp",
+				"-o",
+				"${fileDirname}\\oop.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "компилятор: C:\\MinGW64\\bin\\g++.exe"
+		},
+		{
+			"type": "cppbuild",
+			"label": "Build::Clang 14.0.4",
+			"command": "C:\\MinGW64\\bin\\clang++.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"-std=c++20",
+				"${workspaceFolder}\\*.cpp",
+				"-o",
+				"${fileDirname}\\oop.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "компилятор: C:\\MinGW64\\bin\\clang++.exe"
+		},
+		{
+			"type": "cppbuild",
+			"label": "Build::MSVC",
+			"command": "cl.exe",
+			"args": [
+				"/Zi",
+				"/std:c++latest",
+				"/EHsc",
+				"/nologo",
+				"/Fe${fileDirname}\\oop.exe",
+				"${workspaceFolder}\\*.cpp"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build",
+			"detail": "компилятор: cl.exe"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+let Examen;
+function preload() {
+  Examen = loadModel('Examen.obj');
+}
+
+function setup() {
+  createCanvas(1000, 1000, WEBGL);
+  noStroke();
+}
+
+function draw() {
+  orbitControl(2, 1, 0.1);
+  
+  background(220);
+  text("Lorem",10, 10 ,10);
+  ambientLight(100, 100, 100);
+  directionalLight(200, 200, 200, 1, 0.5, -1);
+  directionalLight(70, 70, 100, -0.5, 1, 0.5)
+  
+  fill('lightblue');
+  translate(0, 60, 0);
+  scale(50, -50, 50);
+  model(Examen);
+}

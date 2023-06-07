@@ -1,0 +1,49 @@
+functiile statului:
+	instututionalizare:Statul reguleza si reglementeaza relatiile institutiilor de stat,determinand atributiile ,convocarea ,dizolvarea si interactiunea acestora
+	de conservare aparare si garantare a regimului copnstitutional a ordinii regale,dreptului asupra proprietatii,etc...
+	de conducere a societatii :dreptul e un instrument de realizare  a conducerii sociale;
+	Normativa:exprima rolul dreptului in viata asociala.Dreptul prin norme de legi asigura organizarea si conducerea sociala;
+	Informativa:Preuspune acumularea de informatii cu privire la viata sociala ,economica,politica etc.. la diferite etape a dezvolatrii societati
+	Educativa:Normele juridice acorda posibilitate statului sa organizeze acivitatile spiritual culturale
+
+Norma Juridica e elementul de baza a dreptului de reprezinta o regula de conduita instituita ,sanctionata de stat,expirmata prin legi si acte normative scopul careia este 
+regularea comportamentului uman si aplitarea carei e asigurata de forta de constrangere
+Norma juridica e constituita din 3 componente:
+	1.Ipoteza :Element al normei ce presupune conditiile functionarii ei.Descrie Evenimente,conditii ,fapte,Imprejurari,este baza relizarii dispozitiei;
+	2.Dispozitia:Parte a normei ce contine o regula de comportament de care trebuie sa se tina cont atunci cand apar conditiile ipotezei;
+	3.Sanctiunea:Parte a normei care descrie consecintele pozitive/negative,tipul si masura responsabilitatii juridice;
+Ipoteza e conditia,Dispozitia e modelul de comportament iar sanctiunea e consecinta;
+Norma juridica nu e lege,nu e act normativ;
+Clasificarea normelor juridice:
+	1.Dupa Ramura de drept: Constitutionale
+					Civile
+					Familie
+					etc..
+		In fiecare ramura evidentiem institutii juridice ce reguleaza o grupa unitare de relatii sociale
+	2.Dupa forta juridica a normei :Norme juridice cuprinse in legi
+						  Norme juridice cuprinse in acte normative
+	3.Normle de reglementarea a conduitei: Imperative-Nu accepta o abatere de la acestea Constitutie,Penal,Fiscal,Ele se impart in 2:Onerative-prescriu obligatia savarsirii unei actiuni
+																						   Norme se interzic savarsirea unor actiuni(casatorie Barbat-Barbat)
+					 	  Dispozitive-Acorda posibilitarea unui larg spectru de comportament al subiectului(ex. se incheie casatoria->ambii pastreaza ceva reguli)
+	4.Dupa sfera de aplicare-Sunt: Generale
+					 Speciala(se atribuie unui grup restrans)
+					De exceptie(se abat de la norma generala)
+
+Actiunea normelor juridice in timp,spatiu si asupra subiectului:	
+	Timp:Norma juridica nu poate fi vesnica,nici actul normativ-ele sunt supuse schimbarii gratie schimbarii sociale,Durata actului normativ cuprinde 2 momente:
+					cel initial(intrerea in vigoare)
+					final:abrogarea,iesirea;la expirarea termenului apare in urma anularii normei ce are loc inlocuirea sa uanularea legii,inlocuirea;invechirea normei;
+	Spatiu:Normele juridice au aplicare pe un anumit teritoriu:
+							Internationale(relatii intre state)
+							Interne
+	Legea se atribuie porsoanelor atat fizice,cat si juridice.
+sunt   1.legi generale
+	2.legi aplicabile persoanelor fizice;
+	3.legi aplicabile persoanelor juridice;
+	4.Legi aplicabile anumitor categorii de persroane(judecator,pensionari)
+	5.Legi cu caracter individual(persoanelor ce detin functii de stat)
+	6.Exista si unele particularitati de la aceasta regula:sefii statelor,diplomati
+
+Doctrina juridica-analiza interparea,investigatiile facute de specialisti
+izvor:contractul normativ-stabileste anumite reguli de conduita
+actil normativ e izvorul principal,e compus din legi,discrete,hotarari,decisi,dispozitii ale parlamentului/guvernului;regulamente,hotarari

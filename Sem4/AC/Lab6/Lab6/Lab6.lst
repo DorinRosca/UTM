@@ -1,0 +1,161 @@
+Microsoft (R) Macro Assembler Version 14.34.31937.0	    06/03/23 19:32:31
+Lab6.asm						     Page 1 - 1
+
+
+				.model small
+				.stack 100h
+ 0000				.data
+ 0000				.code
+ 0000				start:
+ 0000  B8 ---- R		    mov ax, @data
+ 0003  8E D8			    mov ds, ax
+
+ 0005  B4 00			    mov ah, 00h ; set video mode
+ 0007  B0 12			    mov al, 12h ; with resolution 640 columns x 480 lines
+ 0009  CD 10			    int 10h ; call BIOS service
+
+				    ; wait for user input
+ 000B  B4 01			    mov ah, 1
+ 000D  CD 21			    int 21h
+ 000F  3C 31			    cmp al, '1'
+ 0011  74 09			    je draw_netherlands_flag
+ 0013  3C 32			    cmp al, '2'
+ 0015  74 50			    je draw_estonia_flag
+
+				    ; if user input is not 1 or 2, exit program
+ 0017  B8 4C00			    mov ax, 4c00h
+ 001A  CD 21			    int 21h
+
+ 001C				draw_netherlands_flag:
+ 001C  B4 0C			    mov ah, 0ch ; function - draw a pixel on the screen
+ 001E  B7 00			    mov bh, 0 ; video page (0 base)
+ 0020  B9 0000			    mov cx, 0 ; column
+ 0023  BA 0000			    mov dx, 0 ; line
+
+ 0026				m2_netherlands:
+ 0026  B0 04			    mov al, 4h ; red
+ 0028  CD 10			    int 10h
+ 002A  41			    inc cx
+ 002B  81 F9 019A		    cmp cx, 410
+ 002F  75 F5			    jne m2_netherlands
+ 0031  42			    inc dx
+ 0032  33 C9			    xor cx, cx
+ 0034  83 FA 64			    cmp dx, 100
+ 0037  75 ED			    jne m2_netherlands
+
+ 0039				m3_netherlands:
+ 0039  B0 0F			    mov al, 0Fh ; white
+ 003B  CD 10			    int 10h
+ 003D  41			    inc cx
+ 003E  81 F9 019A		    cmp cx, 410
+ 0042  75 F5			    jne m3_netherlands
+ 0044  42			    inc dx
+ 0045  33 C9			    xor cx, cx
+ 0047  81 FA 00C8		    cmp dx, 200
+ 004B  75 EC			    jne m3_netherlands
+
+ 004D				m4_netherlands:
+ 004D  B0 01			    mov al, 1h ; blue
+ 004F  CD 10			    int 10h
+ 0051  41			    inc cx
+ 0052  81 F9 019A		    cmp cx, 410
+ 0056  75 F5			    jne m4_netherlands
+ 0058  42			    inc dx
+ 0059  33 C9			    xor cx, cx
+ 005B  81 FA 012C		    cmp dx, 300
+ 005F  75 EC			    jne m4_netherlands
+
+				    ; wait for user input
+ 0061  B4 01			    mov ah, 1
+ 0063  CD 21			    int 21h
+ 0065  EB 4A			    jmp end_program
+
+ 0067				draw_estonia_flag:
+ 0067  B4 0C			    mov ah, 0ch ; function - draw a pixel on the screen
+ 0069  B7 00			    mov bh, 0 ; video page (0 base)
+ 006B  B9 0000			    mov cx, 0 ; column
+ 006E  BA 0000			    mov dx, 0 ; line
+
+ 0071				m2_estonia:
+ 0071  B0 01			    mov al, 01h ; blue
+ 0073  CD 10			    int 10h
+ 0075  41			    inc cx
+ 0076  81 F9 0258		    cmp cx, 600 ; change this value
+ 007A  75 F5			    jne m2_estonia
+ 007C  42			    inc dx
+ 007D  33 C9			    xor cx, cx
+ 007F  81 FA 00A0		    cmp dx, 160
+ 0083  75 EC			    jne m2_estonia
+
+ 0085				m3_estonia:
+ 0085  B0 00			    mov al, 00h ; black
+ 0087  CD 10			    int 10h
+ 0089  41			    inc cx
+ 008A  81 F9 0258		    cmp cx, 600 ; change this value
+ 008E  75 F5			    jne m3_estonia
+ 0090  42			    inc dx
+ 0091  33 C9			    xor cx, cx
+ 0093  81 FA 0140		    cmp dx, 160*2
+ 0097  75 EC			    jne m3_estonia
+
+ 0099				m4_estonia:
+ 0099  B0 0F			    mov al, 0Fh ; white
+ 009B  CD 10			    int 10h
+ 009D  41			    inc cx
+ 009E  81 F9 0258		    cmp cx, 600 ; change this value
+ 00A2  75 F5			    jne m4_estonia
+ 00A4  42			    inc dx
+ 00A5  33 C9			    xor cx, cx
+ 00A7  81 FA 01E0		    cmp dx, 160*3
+ 00AB  75 EC			    jne m4_estonia
+
+				    ; wait for user input
+ 00AD  B4 01			    mov ah, 1
+ 00AF  CD 21			    int 21h
+
+ 00B1				end_program:
+ 00B1  B8 4C00			    mov ax, 4c00h ; exit program
+ 00B4  CD 21			    int 21h
+				end start
+Microsoft (R) Macro Assembler Version 14.34.31937.0	    06/03/23 19:32:31
+Lab6.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+DGROUP . . . . . . . . . . . . .	GROUP
+_DATA  . . . . . . . . . . . . .	16 Bit	 0000	  Word	  Public  'DATA'	
+STACK  . . . . . . . . . . . . .	16 Bit	 0100	  Para	  Stack	  'STACK'	 
+_TEXT  . . . . . . . . . . . . .	16 Bit	 00B6	  Word	  Public  'CODE'	
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 0000h	 
+@DataSize  . . . . . . . . . . .	Number	 0000h	 
+@Interface . . . . . . . . . . .	Number	 0000h	 
+@Model . . . . . . . . . . . . .	Number	 0002h	 
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 DGROUP
+@fardata?  . . . . . . . . . . .	Text   	 FAR_BSS
+@fardata . . . . . . . . . . . .	Text   	 FAR_DATA
+@stack . . . . . . . . . . . . .	Text   	 DGROUP
+draw_estonia_flag  . . . . . . .	L Near	 0067	  _TEXT	
+draw_netherlands_flag  . . . . .	L Near	 001C	  _TEXT	
+end_program  . . . . . . . . . .	L Near	 00B1	  _TEXT	
+m2_estonia . . . . . . . . . . .	L Near	 0071	  _TEXT	
+m2_netherlands . . . . . . . . .	L Near	 0026	  _TEXT	
+m3_estonia . . . . . . . . . . .	L Near	 0085	  _TEXT	
+m3_netherlands . . . . . . . . .	L Near	 0039	  _TEXT	
+m4_estonia . . . . . . . . . . .	L Near	 0099	  _TEXT	
+m4_netherlands . . . . . . . . .	L Near	 004D	  _TEXT	
+start  . . . . . . . . . . . . .	L Near	 0000	  _TEXT	
+
+	   0 Warnings
+	   0 Errors

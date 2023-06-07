@@ -1,0 +1,152 @@
+C:\Users\Asus\Desktop\HR\HR\bin\Debug\HR.exe.config
+C:\Users\Asus\Desktop\HR\HR\bin\Debug\HR.exe
+C:\Users\Asus\Desktop\HR\HR\bin\Debug\HR.pdb
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.Properties.Resources.resources
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.exe
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.pdb
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.Main.resources
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.adaugaSlide.resources
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.cautaSlide.resources
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.modificaSlide.resources
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.eliminaSlide.resources
+C:\Users\Asus\Desktop\HR\HR\bin\Debug\data\Lista-Angajati.mdf
+C:\Users\Asus\Desktop\HR\HR\bin\Debug\data\Lista-Angajati_log.ldf
+C:\Users\Asus\Desktop\HR\HR\obj\Debug\HR.Slides.afisareListaSlide.resources
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.cautaSlide.resources
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.modificaSlide.resources
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.eliminaSlide.resources
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.Main.resources
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.Properties.Resources.resources
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.adaugaSlide.resources
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.exe
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.pdb
+C:\Users\Asus\Desktop\HR - Copy\HR\bin\Debug\HR.exe.config
+C:\Users\Asus\Desktop\HR - Copy\HR\bin\Debug\HR.exe
+C:\Users\Asus\Desktop\HR - Copy\HR\bin\Debug\HR.pdb
+C:\Users\Asus\Desktop\HR - Copy\HR\obj\Debug\HR.Slides.afisareAngajatiSlide.resources
+C:\Users\Asus\Desktop\HR - Manager\HR\bin\Debug\HR.exe.config
+C:\Users\Asus\Desktop\HR - Manager\HR\bin\Debug\HR.exe
+C:\Users\Asus\Desktop\HR - Manager\HR\bin\Debug\HR.pdb
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.Slides.afisareAngajatiSlide.resources
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.cautaSlide.resources
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.modificaSlide.resources
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.eliminaSlide.resources
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.Main.resources
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.Properties.Resources.resources
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.adaugaSlide.resources
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.exe
+C:\Users\Asus\Desktop\HR - Manager\HR\obj\Debug\HR.pdb
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\bin\Debug\HR.exe.config
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\bin\Debug\HR.exe
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\bin\Debug\HR.pdb
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.Slides.afisareAngajatiSlide.resources
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.cautaSlide.resources
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.modificaSlide.resources
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.eliminaSlide.resources
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.Main.resources
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.Properties.Resources.resources
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.adaugaSlide.resources
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.exe
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.pdb
+C:\Users\Asus\Desktop\HR - ManagerSQL-SQL\HR\obj\Debug\HR.Slides.Detalii.resources
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\bin\Debug\HR.exe.config
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\bin\Debug\HR.exe
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\bin\Debug\HR.pdb
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.csproj.SuggestedBindingRedirects.cache
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.Slides.afisareAngajatiSlide.resources
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.cautaSlide.resources
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.Slides.Detalii.resources
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.modificaSlide.resources
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.eliminaSlide.resources
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.Main.resources
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.Properties.Resources.resources
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.adaugaSlide.resources
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.csproj.GenerateResource.cache
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.exe
+D:\UTM\Sem3\ProiectDeGrup\HR-ProiectDeGrup\HR\obj\Debug\HR.pdb
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\bin\Debug\HR.exe.config
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\bin\Debug\HR.exe
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\bin\Debug\HR.pdb
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.csproj.SuggestedBindingRedirects.cache
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.Slides.afisareAngajatiSlide.resources
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.cautaSlide.resources
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.Slides.Detalii.resources
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.modificaSlide.resources
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.eliminaSlide.resources
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.Main.resources
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.Properties.Resources.resources
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.adaugaSlide.resources
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.csproj.GenerateResource.cache
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.exe
+D:\UTM\Sem3\ProiectDeAn\HR-ProiectDeAn\HR\obj\Debug\HR.pdb
+C:\Users\Asus\Desktop\Copy\HR\bin\Debug\HR.exe.config
+C:\Users\Asus\Desktop\Copy\HR\bin\Debug\HR.exe
+C:\Users\Asus\Desktop\Copy\HR\bin\Debug\HR.pdb
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.Slides.afisareAngajatiSlide.resources
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.cautaSlide.resources
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.Slides.Detalii.resources
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.modificaSlide.resources
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.eliminaSlide.resources
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.Main.resources
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.Properties.Resources.resources
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.adaugaSlide.resources
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.exe
+C:\Users\Asus\Desktop\Copy\HR\obj\Debug\HR.pdb
+C:\Users\Asus\Desktop\cOPIE\HR\bin\Debug\HR.exe.config
+C:\Users\Asus\Desktop\cOPIE\HR\bin\Debug\HR.exe
+C:\Users\Asus\Desktop\cOPIE\HR\bin\Debug\HR.pdb
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.Slides.afisareAngajatiSlide.resources
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.cautaSlide.resources
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.Slides.Detalii.resources
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.modificaSlide.resources
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.eliminaSlide.resources
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.Main.resources
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.Properties.Resources.resources
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.adaugaSlide.resources
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.exe
+C:\Users\Asus\Desktop\cOPIE\HR\obj\Debug\HR.pdb
+D:\UTM\Sem3\ProiectDeAn\HR\HR\bin\Debug\HR.exe.config
+D:\UTM\Sem3\ProiectDeAn\HR\HR\bin\Debug\HR.exe
+D:\UTM\Sem3\ProiectDeAn\HR\HR\bin\Debug\HR.pdb
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.csproj.SuggestedBindingRedirects.cache
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.Slides.afisareAngajatiSlide.resources
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.cautaSlide.resources
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.Slides.Detalii.resources
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.modificaSlide.resources
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.eliminaSlide.resources
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.Main.resources
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.Properties.Resources.resources
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.adaugaSlide.resources
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.csproj.GenerateResource.cache
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.exe
+D:\UTM\Sem3\ProiectDeAn\HR\HR\obj\Debug\HR.pdb

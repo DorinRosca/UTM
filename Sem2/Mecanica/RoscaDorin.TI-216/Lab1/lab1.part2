@@ -1,0 +1,136 @@
+%Rosca Dorin,TI-216,Varianta-14
+%Lab nr2.Grafica in Octave
+%Ex1...Teorie....In Raport
+%Ex2
+close all
+x=[-pi:0.05:4*pi];
+f=x.*sin(x.^2);
+g=(x.^2).*cos(x);
+%a)In ferestre diferite
+%construirea graficului functiei f
+figure(1)
+plot(x,f,'k-','linewidth',2)
+legend('f(x)=x*sin(x^2)','fontSize',20)
+set(gca, 'fontSize', 25);
+title('\it Functia f(x)')
+xlabel('x'); ylabel('y');
+grid;grid minor
+
+figure(2)
+plot(x,g,'b-','linewidth',2)
+title('{\it  Functia g(x)}')
+set(gca, 'fontSize', 25);
+legend('g(x)=(x^2)*cos(x)')
+xlabel('x');ylabel('y');
+grid;grid minor
+%b)
+
+figure(3)
+plot(x,f,'k-','linewidth',2)
+hold on
+plot(x,g,'b-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('{\it Functiile f(x) si g(x)}')
+legend('f(x)=x*sin(x^2)','g(x)=(x^2)*cos(x)')
+xlabel('x');ylabel('y')
+grid;grid minor
+%c1-intr-o fereastra pe axe diferite orizontal
+figure(4)
+subplot(3,1,1)
+plot(x,f,'k-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('\it Functia f(x)')
+xlabel('x');xlabel('y')
+grid;
+grid minor
+subplot(3,1,2)
+plot(x,g,'b-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('{\it  Functia g(x)}')
+xlabel('x');ylabel('y')
+grid;grid minor
+subplot(3,1,3)
+plot(x,f,'k-','linewidth',2)
+hold on
+plot(x,g,'b-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('{\it Functiile f(x) si g(x)}')
+legend('f(x)=x*sin(x^2)','g(x)=(x^2)*cos(x)','fontSize',20)
+xlabel('x');ylabel('y')
+grid;grid minor
+%c2-intr-o fereastra pe axe diferite vertical
+figure(5)
+subplot(1,3,1)
+plot(x,f,'k-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('\it Functia f(x)')
+xlabel('x');xlabel('y')
+grid;
+grid minor
+subplot(1,3,2)
+plot(x,g,'b-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('{\it  Functia g(x)}')
+xlabel('x');ylabel('y')
+grid;grid minor
+subplot(1,3,3)
+plot(x,f,'k-','linewidth',2)
+hold on
+plot(x,g,'b-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('{\it Functiile f(x) si g(x)}')
+legend('f(x)=x*sin(x^2)','g(x)=(x^2)*cos(x)')
+xlabel('x');ylabel('y')
+grid;grid minor
+%c2-intr-o fereastra pe axe diferite vertical
+figure(6)
+subplot(2,2,1)
+plot(x,f,'k-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('\it Functia f(x)')
+xlabel('x');xlabel('y')
+grid;
+grid minor
+subplot(2,2,3)
+plot(x,g,'b-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('{\it  Functia g(x)}')
+xlabel('x');ylabel('y')
+grid;grid minor
+subplot(2,2,[2,4])
+plot(x,f,'k-','linewidth',2)
+set(gca, 'fontSize', 25);
+%hold on
+plot(x,g,'b-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('{\it Functiile f(x) si g(x)}')
+legend('f(x)=x*sin(x^2)','g(x)=(x^2)*cos(x)')
+xlabel('x');ylabel('y')
+grid;grid minor
+figure(7)
+subplot(2,2,3)
+plot(x,f,'k-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('\it Functia f(x)')
+xlabel('x');xlabel('y')
+grid;
+grid minor
+subplot(2,2,4)
+plot(x,g,'b-','linewidth',2)
+set(gca, 'fontSize', 25);
+title('{\it  Functia g(x)}')
+xlabel('x');ylabel('y')
+grid;grid minor
+subplot(2,2,[1,2])
+set(gca, 'fontSize', 25);
+plot(x,f,'k-','linewidth',2)
+hold on
+set(gca, 'fontSize', 25);
+plot(x,g,'b-','linewidth',2)
+title('{\it Functiile f(x) si g(x)}')
+legend('f(x)=x*sin(x^2)','g(x)=(x^2)*cos(x)','fontSize',20)
+xlabel('x');ylabel('y')
+grid;grid minor
+
+%Ex 3
+pause

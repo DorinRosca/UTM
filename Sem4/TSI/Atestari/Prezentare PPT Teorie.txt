@@ -1,0 +1,25 @@
+5----
+5-Există mai multe tipuri de backup (rezervă), fiecare dintre ele pot fi utilizat în funcție de cerințele și condițiile specifice de utilizare. Unele dintre cele mai comune tipuri de backup includ:
+ 1 Backup complet (Full backup) reprezinta crearea unei copii de rezervă a tuturor datelor de pe calcualtor sau sistem.
+ 2 Backup incremental (Incremental backup) - crearea unei copii de rezervă doar pentru datele care au fost modificate de la ultimul backup incremental.
+ 3 Backup diferențial (Differential backup) - crearea unei copii de rezervă doar pentru datele care au fost modificate de la ultimul backup complet.
+ 4 Backup bazat pe puncte de restaurare (Snapshot backup) - crearea unei copii de rezervă a datelor într-un anumit moment în timp,
+
+deasemenea copiile de rezerva se diferentiaza si dupa spatiul de stocare a datelor
+ 5 Backup online (Online backup) - crearea unei copii de pe un server remote cum ar fi cloud la care are acces prin intermediul internetului
+ 6 Backup local (Local backup) - crearea unei copii de rezervă a datelor pe un dispozitiv local, cum ar fi un hard disk CD disk sau Stick USB
+ 7 Backup remote (Offsite backup) - crearea unei copii de rezervă a datelor si stocarea intr-o locatie diferita de cea in care sunt pastrate datele originale
+
+
+
+6-----
+Schemă de rotație a backup-urilor:  
+
+4 Scheme de backup incremental zilnic (Daily incremental) - acestea reprezinta crearea unui backup complet la începutul săptămânii și apoi backup-uri incrementale pentru fiecare zi din săptămână.
+
+2 Scheme de backup săptămânale complete (Full weekly) - acestea implică crearea unui backup complet o dată pe săptămână 
+
+
+3 Scheme de backup diferențial săptămânal (Weekly differential) - acestea implică crearea unui backup complet la începutul săptămânii și backup-uri diferențiale pentru fiecare zi din săptămână.
+
+1 Schemele de backup în bucle - acestea implică crearea a trei tipuri de backup-uri: backup-uri zilnice(create zilnic si se pastreaza o saptamana) , backup-uri săptămânale(create o data pe saptamana si se pastreaza o luna ) și backup-uri lunare(respectiv create odata pe luna si se pastreaza 5-6 luni). 
